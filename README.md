@@ -1,6 +1,6 @@
 # ZOO-DBMS
 
-This project is a part of the Database Systems course within the Electrical and Computer Engineering department at the University of Patras.
+This project is a part of the Database Systems course within the Electrical and Computer Engineering department at the University of Patras, Greece.
 
 ## Project Purpose
 
@@ -23,7 +23,7 @@ git clone https://github.com/orestis-koutroumpas/ZOO-DBMS.git
 
 ### Αν δεν έχετε το Git εγκατεστημένο
 
-You can download the folder as a zip file.
+You can [download the folder as a zip file](https://github.com/orestis-koutroumpas/ZOO-DBMS/tree/main).
 Click the "Code" button above and select "Download ZIP" to download the repository as a zip file.
 Then, extract the file on your computer.
 
