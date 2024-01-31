@@ -21,9 +21,9 @@ Use Git to clone the repository to your computer. From the command line, execute
 git clone https://github.com/orestis-koutroumpas/ZOO-DBMS.git
 ```
 
-### Αν δεν έχετε το Git εγκατεστημένο
+### If you do not have Git installed
 
-You can [download the folder as a zip file](https://github.com/orestis-koutroumpas/ZOO-DBMS/tree/main).
+You can download the folder as a zip file.
 Click the "Code" button above and select "Download ZIP" to download the repository as a zip file.
 Then, extract the file on your computer.
 
