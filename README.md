@@ -27,7 +27,7 @@ You can download the folder as a zip file.
 Click the "Code" button above and select "Download ZIP" to download the repository as a zip file.
 Then, extract the file on your computer.
 
-## Running the GUI.py file
+## Execute the GUI.py file
 
 A prerequisite is to have Python installed on your computer.
 After extracting the folder, navigate to it from the command line and execute the following command to start the application:
