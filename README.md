@@ -1,6 +1,6 @@
 # ZOO-DBMS
 
-This project is a part of the Database Systems course within the Electrical and Computer Engineering department at the University of Patras, Greece.
+This project is a part of the ECE_CK703 Data Bases course within the Electrical and Computer Engineering department at the University of Patras, Greece.
 
 ## Project Purpose
 
