@@ -1,11 +1,9 @@
 # ZOO-DBMS
 
-This project is a part of the ECE_CK703 Data Bases course within the Electrical and Computer Engineering department at the University of Patras, Greece.
 
 ## Project Purpose
 
-The project focuses on creating a database application for a zoo. Participants design and
-implement a system that addresses the information management needs for the animals, employees, and exhibits of
+The project focuses on creating a database application for a zoo. The system addresses the information management needs for the animals, employees, and exhibits of
 the zoo. Functions include recording and updating information about animals, personnel management, and
 accessing statistical data.
 
