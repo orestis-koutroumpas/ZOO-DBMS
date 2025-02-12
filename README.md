@@ -3,7 +3,7 @@
 The project focuses on creating a database application for a zoo. The system addresses the information management needs for the animals, employees, and exhibits of the zoo. Functions include recording and updating information about animals, personnel management, and
 accessing statistical data.
 
-![Project Screenshot](screenshots/demo.png)
+![Project Screenshot](demo.png)
 
 ## Installation Instructions
 
