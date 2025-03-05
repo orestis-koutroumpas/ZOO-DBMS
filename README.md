@@ -29,6 +29,4 @@ No additional library installations are required, as they are automatically hand
 
 To run the program, simply execute the GUI.py file. The program will automatically set up the database and generate the necessary fake data.
 
-``` python GUI.py ```
-
 This will launch the ZOO-DBMS GUI, allowing you to interact with the database and explore features like managing animals, employees, and exhibits.
