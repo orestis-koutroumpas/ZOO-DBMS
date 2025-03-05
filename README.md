@@ -3,7 +3,7 @@
 **ZOO-DBMS** is a database management system designed for managing zoo operations, including **animal records, employee management, and exhibit details**.  
 
 <p align="center">
-  <img src="screenshots/demo.gif" width="90%" alt="App Demo">
+  <img src="screenshots/demo.gif" width="75%" alt="App Demo">
 </p>
 
 
