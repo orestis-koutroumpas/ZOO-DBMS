@@ -9,14 +9,14 @@
 
 ## Features  
 
-- 🐾 **Animal Management** – Add, edit, and track zoo animals.  
-- 👥 **Employee Management** – Manage personnel and schedules.  
-- 🎢 **Exhibit Information** – Store details about different zoo exhibits.  
-- 📊 **Reports & Statistics** – Retrieve insights into zoo operations.  
-- 🖥️ **Graphical Interface** – User-friendly GUI for database interaction.  
+- 🐾 **Animal Management** – Add, edit, and track zoo animals with detailed information like species, age, and health status.
+- 👥 **Employee Management** – Manage zoo personnel, assign roles, and keep track of schedules.
+- 🎢 **Exhibit Information** – Store and manage details about various zoo exhibits, including their locations and animal inhabitants.
+- 🗄️ **SQLite Database** – Utilizes SQLite for efficient data storage and management, ensuring smooth performance even with large datasets.
+- 🖥️ **Graphical Interface** – User-friendly graphical interface (GUI) for easy interaction with the database. 
 
 ## 🗄 Database Design
-The database follows a relational model to efficiently store and manage zoo data.
+The database follows a relational model to efficiently store and manage zoo data. Here’s the Entity-Relationship Diagram (ERD) that visualizes the relationships between different entities:
 ![ERD](erd.png)
 
 ## Getting Started
@@ -27,4 +27,8 @@ No additional library installations are required, as they are automatically hand
 
 ### 2. Run the Program
 
-To execute the program run the GUI.py file.
+To run the program, simply execute the GUI.py file. The program will automatically set up the database and generate the necessary fake data.
+
+``` python GUI.py ```
+
+This will launch the ZOO-DBMS GUI, allowing you to interact with the database and explore features like managing animals, employees, and exhibits.
